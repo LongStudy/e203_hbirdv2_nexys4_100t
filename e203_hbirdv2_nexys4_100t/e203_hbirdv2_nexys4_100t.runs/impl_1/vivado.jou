@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Nov  8 19:00:43 2022
+# Process ID: 3997
+# Current directory: /root/e203_hbirdv2_nexys4_100t/e203_hbirdv2_nexys4_100t/e203_hbirdv2_nexys4_100t.runs/impl_1
+# Command line: vivado -log system.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source system.tcl -notrace
+# Log file: /root/e203_hbirdv2_nexys4_100t/e203_hbirdv2_nexys4_100t/e203_hbirdv2_nexys4_100t.runs/impl_1/system.vdi
+# Journal file: /root/e203_hbirdv2_nexys4_100t/e203_hbirdv2_nexys4_100t/e203_hbirdv2_nexys4_100t.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source system.tcl -notrace
